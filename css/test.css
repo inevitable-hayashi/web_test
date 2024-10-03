@@ -1,2 +1,6 @@
 @charset "UTF-8";
 /* CSSです */
+p {
+    color: #f00;
+    font-size: 32px;
+}
